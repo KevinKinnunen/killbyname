@@ -1,5 +1,4 @@
-# killbyname
-## Instructions
+## Instructions:
 ### How to run (ubuntu/linux):
 - End process using name:
 ./killbyname.py -n (process name).
